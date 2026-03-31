@@ -122,8 +122,10 @@ A phased, de-risked approach:
 
 ## 📂 Full Case Study
 
-👉 [View Full Presentation (Interactive)](https://gamma.app/docs/Fixing-Why-Water-Leakage-Detection-Systems-Fail-s5swn2uiofup158)  
-👉 [Download PDF Version](./Fixing-Why-Water-Leakage-Detection-Systems-Fail.pdf)
+[![View Interactive Presentation](https://img.shields.io/badge/View%20Interactive%20Presentation-Gamma-blue?style=for-the-badge)](https://gamma.app/docs/Fixing-Why-Water-Leakage-Detection-Systems-Fail-s5swn2uiofup158)
+
+[![Download PDF](https://img.shields.io/badge/Download%20PDF-Case%20Study-green?style=for-the-badge)](./Fixing-Why-Water-Leakage-Detection-Systems-Fail.pdf)
+
 ---
 
 ## 🧨 Final Takeaway
